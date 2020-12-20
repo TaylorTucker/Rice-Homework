@@ -32,7 +32,7 @@ EquityZen ,broadly speaking, operates in the [Alternative Investment](https://ww
  Within last decade alternative finance has experienced major disruptions due to changes in monetary policy of central banks, the evolution of blockchain, deregulation of privet equity offerings, technological innovations, and increased ease of access by consumers to information and technology.  These trends have lowered the barrier of entry for small fintech startups to perform on the same levels as the larger, more experienced institutions. They have provided more diversified investment options for the average consumer. EquityZen has used these disruptions to its advantage to acheive a level of success that rivals peers such as [Forge, SharePost and Carta](https://www.harnesswealth.com/articles/selling-your-startup-shares-comparison-secondary-stock-marketplaces/).
 
 
-
+---
 
 ## <div align="center">Results
 
@@ -40,7 +40,7 @@ EquityZen ,broadly speaking, operates in the [Alternative Investment](https://ww
 
  To perform well in the Alternative Investment Fintech Domain it takes a few key charateristics.  Fist and formost is transparency. Since alternative investments are not regulated the same as traditional investments, lack of information on an a company or about interested investor can be a big deturrant. EquityZen's model of working closely with the issuer to ensure the shares are offered in a manner that meets expectations.  For investors, EquityZen ensures any information an inverstor would need to make an informed investment desicion is available, while also offering ownership interest in single security funds and direct aquistions.  Diversity of investment is another key driver of success.  Though, EquityZen falls short in this area, it has been able to overcome this obstical by offering a much lower minimum intitial investment than its competitors through the use of pooled funds.  EquityZen has heavily intergrated technology to set itself a part from the pack. For example, it was one of the first to provide investors with the ability to submitt privet equity transactions electronically. Unfortunately, two of it main competitors, Forge and SharePost, have recently merged to create the largest electronic privet equity market in the world. This will undoubtedly cause trouble for EquityZen in the future.  
 
-
+---
 
 ## <div align="center">Recommendations
 
